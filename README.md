@@ -42,3 +42,6 @@
     </context>
 </generatorConfiguration>
 ```
+
+## 文章
+实现过程，我写成了[一篇文章](https://since1986.github.io/blog/bbefb134.html)，发布在了我的博客上。
