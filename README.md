@@ -1,4 +1,4 @@
-# learn-boot-step1
+# mybatis-comment-generator
 ---
 
 ## 简介
